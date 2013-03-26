@@ -1,4 +1,4 @@
-WebUI
+NucleusUI
 =====
 
 We need to create a JS overlay menu system for our domain. I want it to start with just accessing our internal WP and phpBB site. The goal is to use a custom bootstrap theme and then have it extend into the blog+forum, or else simply access the content and repost it.
